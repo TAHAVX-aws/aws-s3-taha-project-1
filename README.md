@@ -1,1 +1,5 @@
-# aws-s3-taha-project-1
+MY FIRST CLOUD PROJECT 
+PROJECT V1 - STATIC WEBSITE ON AWS S3
+DEMO - SHORT VIDEO 
+LINK PROJECT - http://site-s3-taha.s3-website.eu-north-1.amazonaws.
+TECH STACK - HTML , AWS S3 , GIT
